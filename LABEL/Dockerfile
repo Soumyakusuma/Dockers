@@ -1,0 +1,4 @@
+FROM run:v1
+LABEL COURSE="DEVOPS" \
+      TRAINEE="SOUMYA" \
+      TIME="120hr"
