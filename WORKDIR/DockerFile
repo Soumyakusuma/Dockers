@@ -1,4 +1,4 @@
-FROM almalinux:9
+FROM run:v1
 RUN mkdir /tmp/demo
 RUN cd /tmp/demo
 RUN pwd
